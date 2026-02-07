@@ -1,0 +1,8 @@
+@startuml
+:Giocatore: as g
+(registrarsi al sito) as reg
+(creare profilo) as crep
+
+g -- reg
+g -- crep
+@enduml
