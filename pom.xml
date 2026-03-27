@@ -14,7 +14,7 @@
     <description>Progetto padre per gli esercizi TPSI4</description>
 
     <modules>
-        <module>esercizi-base</module>
+        <module>oop</module>
     </modules>
 
     <properties>
