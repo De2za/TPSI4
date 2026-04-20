@@ -15,11 +15,17 @@
 
     <modules>
         <module>oop</module>
+        <module>esercizi-preparazione-verifiche</module>
+        <module>esercizi-preparazione-verifiche/programmazione-concorrente</module>
+        <module>esercizi-preparazione-verifiche/programmazione-concorrente/es2</module>
+        <module>esercizi-preparazione-verifiche/programmazione-concorrente/es3</module>
+        <module>esercizi-preparazione-verifiche/programmazione-concorrente/es4</module>
+        <module>esercizi-preparazione-verifiche/programmazione-concorrente/es5</module>
     </modules>
 
     <properties>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
+        <maven.compiler.source>24</maven.compiler.source>
+        <maven.compiler.target>24</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
