@@ -21,6 +21,9 @@
         <module>esercizi-preparazione-verifiche/programmazione-concorrente/es3</module>
         <module>esercizi-preparazione-verifiche/programmazione-concorrente/es4</module>
         <module>esercizi-preparazione-verifiche/programmazione-concorrente/es5</module>
+        <module>esercizi-potenziamento</module>
+        <module>esercizi-potenziamento/modulo-a</module>
+        <module>esercizi-potenziamento/modulo-a/A1</module>
     </modules>
 
     <properties>
